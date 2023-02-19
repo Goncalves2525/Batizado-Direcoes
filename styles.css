@@ -3,11 +3,11 @@ body{
 }
 
 h5{
-  font-family: "Sacramento", sans-serif; font-weight: bold; font-size: 3rem;
+  font-family: "Sacramento", sans-serif; font-weight: bold; font-size: 400%;
 }
 
 p{
-  font-family: "Sacramento", sans-serif; font-size: 2rem 
+  font-family: "Sacramento", sans-serif; font-size: 300%; 
 }
 
 .row{

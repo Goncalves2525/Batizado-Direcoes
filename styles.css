@@ -3,11 +3,11 @@ body{
 }
 
 h5{
-  font-family: "Sacramento", sans-serif; font-weight: bold; font-size: 400%;
+  font-family: "Sacramento", sans-serif; font-weight: bold; font-size: 500%;
 }
 
 p{
-  font-family: "Sacramento", sans-serif; font-size: 300%; 
+  font-family: "Sacramento", sans-serif; font-size: 400%; 
 }
 
 .row{
@@ -17,6 +17,11 @@ p{
 .btn{
   color: rgb(235, 114, 219);
   border-color: rgb(235, 114, 219);
+  margin-bottom: 15%;
+}
+
+.btn-lg{
+  font-size: 350%;
 }
 
 .btn:hover, .btn:active, .btn:focus, a{

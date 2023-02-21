@@ -1,9 +1,10 @@
 body{
-  background-color: rgb(247, 215, 241);
+  background: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
 }
 
 h5{
   font-family: "Sacramento", sans-serif; font-weight: bold; font-size: 500%;
+  
 }
 
 p{
@@ -14,10 +15,19 @@ p{
   margin: 5%;
 }
 
+.card{
+  border-width: 5px;
+}
+
+.image{
+  margin-top: 10px;
+}
+
 .btn{
-  color: rgb(235, 114, 219);
-  border-color: rgb(235, 114, 219);
-  margin-bottom: 15%;
+  color: #ff9a9e;
+  border-color: #ff9a9e;
+  margin: 15% 0 15% 0;
+  border-width: 5px;
 }
 
 .btn-lg{
@@ -26,8 +36,8 @@ p{
 
 .btn:hover, .btn:active, .btn:focus, a{
   color: white;
-  background-color: rgb(235, 114, 219);
-  border-color: rgb(235, 114, 219);
+  background-color: #ff9a9e;
+  border-color:#ff9a9e;
   outline: none;
   box-shadow: none;
 }

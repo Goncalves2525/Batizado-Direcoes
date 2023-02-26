@@ -21,7 +21,12 @@ p{
   border-width: 5px;
 }
 
-.image{
+.img-res{
+  margin-top: 10px;
+  height: 40%;
+}
+
+.img-quinta{
   margin-top: 10px;
 }
 

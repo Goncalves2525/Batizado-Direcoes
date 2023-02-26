@@ -33,13 +33,14 @@ p{
 .btn{
   color: black;
   border-color: black;
-  margin: 5% 0 15% 0;
+  margin: 15% 0 15% 0;
   border-width: 5px;
 }
 
 .btn-lg{
   font-size: 350%;
 }
+
 
 .btn:hover, .btn:active, .btn:focus, a{
   color: white;

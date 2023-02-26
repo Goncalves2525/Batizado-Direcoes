@@ -1,14 +1,16 @@
 body{
-  background: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+  background: linear-gradient(to top, #d7c19f 0%, #f9ebdb 99%, white 100%);
 }
 
 h5{
-  font-family: "Sacramento", sans-serif; font-weight: bold; font-size: 500%;
+  font-family: "Alex Brush", sans-serif; font-weight: bold; font-size: 500%;
+  color: #B89764;
   
 }
 
 p{
-  font-family: "Sacramento", sans-serif; font-size: 400%; 
+  font-family: "Sanchez", sans-serif; font-size: 200%; 
+  color: #A2AF9C;
 }
 
 .row{
@@ -24,8 +26,8 @@ p{
 }
 
 .btn{
-  color: #ff9a9e;
-  border-color: #ff9a9e;
+  color: black;
+  border-color: black;
   margin: 15% 0 15% 0;
   border-width: 5px;
 }
@@ -36,8 +38,8 @@ p{
 
 .btn:hover, .btn:active, .btn:focus, a{
   color: white;
-  background-color: #ff9a9e;
-  border-color:#ff9a9e;
+  background-color: black;
+  border-color:black;
   outline: none;
   box-shadow: none;
 }
